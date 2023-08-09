@@ -5,3 +5,8 @@ mysql -u root -p$DB_ROOT_PASSWORD --execute \
 GRANT ALL PRIVILEGES ON $DB_DATABASE.* TO '$DB_USERNAME'@'%';"
 
 echo "** Finished default SQL user and database creation"
+
+
+
+
+// not used
